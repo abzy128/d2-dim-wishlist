@@ -1,0 +1,8 @@
+title:abzy's rolls
+description:just some perk roll recommendations
+
+// Lost Signal - based roll (pve)
+//notes: tags:pve
+dimwishlist:item=1197771438&perks=3525010810,2822142346,3528046508,859780267
+
+
