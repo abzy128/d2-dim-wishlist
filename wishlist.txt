@@ -6,3 +6,8 @@ description:just some perk roll recommendations
 dimwishlist:item=1197771438&perks=3525010810,2822142346,3528046508,859780267
 
 
+// The Call - based roll (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=3947966653&perks=1478423395,1380253176,1906147653,859780267
+
+
